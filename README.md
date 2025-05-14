@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/daltonnyx-userful-mcps-badge.png)](https://mseep.ai/app/daltonnyx-userful-mcps)
+
 # Useful Model Context Protocol Servers (MCPS)
 
 A collection of standalone Python scripts that implement Model Context Protocol
